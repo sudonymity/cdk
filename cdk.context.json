@@ -1,0 +1,10 @@
+{
+  "hosted-zone:account=971662606146:domainName=sudonymity.com:region=us-east-2": {
+    "Id": "/hostedzone/Z0060250LYTU8DUDQ43A",
+    "Name": "sudonymity.com."
+  },
+  "hosted-zone:account=971662606146:domainName=sudonymity.com:region=us-east-1": {
+    "Id": "/hostedzone/Z0060250LYTU8DUDQ43A",
+    "Name": "sudonymity.com."
+  }
+}
